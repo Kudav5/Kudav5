@@ -1,7 +1,7 @@
 # 💫 About Me:
 🤝 Saya berkolaborasi dengan orang lain<br>🌱 Saya belajar bahasa Python
 
-## My Stats:
+# Wakatime Stats:
 [![wakatime](https://wakatime.com/badge/user/d52cd53f-d5f6-45bc-b518-5c83a45604b0.svg)](https://wakatime.com/@d52cd53f-d5f6-45bc-b518-5c83a45604b0)
 
 ## 🌐 Socials:
