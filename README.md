@@ -1,6 +1,7 @@
 # 💫 About Me:
-🤝 Saya berkolaborasi dengan orang lain<br>🌱 Saya belajar <a href="#💻-language--tools" style="color: inherit;">bahasa pemrograman</a><br>
-📬 Bagaimana cara menghubungi saya <a href="#🌐-socials" style="color: inherit;">disini</a><br>
+🤝 Saya berkolaborasi dengan orang lain<br>
+🌱 Saya belajar (💻 Language & Tools)<br>
+📬 Bagaimana cara menghubungi saya (🌐 Socials)<br>
 
 
 # My Time Stats:
