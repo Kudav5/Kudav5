@@ -22,7 +22,9 @@ I'm an Informatics student who is interested in software development, especially
 ### My Time Stats:
 [![wakatime](https://wakatime.com/badge/user/d52cd53f-d5f6-45bc-b518-5c83a45604b0.svg)](https://wakatime.com/@d52cd53f-d5f6-45bc-b518-5c83a45604b0)
 
----
+# 💻 Language & Tools:
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/> </a>
+</p>
 
 ### 📊 GitHub Statistics
 
