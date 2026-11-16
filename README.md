@@ -18,14 +18,6 @@ I'm an Informatics student who is interested in software development, especially
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/> </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kudav5&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kudav5&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kudav5&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
 ### My Time Stats:
 [![wakatime](https://wakatime.com/badge/user/d52cd53f-d5f6-45bc-b518-5c83a45604b0.svg)](https://wakatime.com/@d52cd53f-d5f6-45bc-b518-5c83a45604b0)
 
